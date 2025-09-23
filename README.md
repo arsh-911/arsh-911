@@ -1,7 +1,8 @@
 <!-- Hero -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Arshnoor%20Singh&fontAlign=50&section=header&desc=Developer%20%7C%20AI%20%26%20Product%20Builder%20@%20SFU&descAlign=50&fontSize=42&descSize=18&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=200&amp;section=header&amp;text=Arshnoor%20Singh&amp;fontSize=42&amp;fontAlign=50&amp;desc=Developer%20%7C%20AI%20%26%20Product%20Builder%20%40%20SFU&amp;descSize=18&amp;descAlign=50" />
 </p>
+
 
 <!-- Typing headline -->
 <p align="center">
