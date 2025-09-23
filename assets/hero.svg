@@ -1,1 +1,35 @@
+<!-- assets/hero.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <!-- Animated gradient -->
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7c3aed"></stop>
+      <stop offset="50%" stop-color="#06b6d4"></stop>
+      <stop offset="100%" stop-color="#22c55e"></stop>
+      <animate attributeName="x1" values="0%;100%" dur="12s" repeatCount="indefinite"></animate>
+      <animate attributeName="x2" values="100%;200%" dur="12s" repeatCount="indefinite"></animate>
+    </linearGradient>
 
+    <!-- Soft glass blur for wave overlap -->
+    <filter id="blur" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="12"></feGaussianBlur>
+    </filter>
+  </defs>
+
+  <!-- Gradient background -->
+  <rect width="1200" height="220" fill="url(#g)"></rect>
+
+  <!-- Wavy overlay (slight blur) -->
+  <path d="M0,120 C200,160 400,80 600,110 C800,140 1000,70 1200,110 L1200,220 L0,220 Z" fill="rgba(255,255,255,0.20)" filter="url(#blur)"></path>
+  <path d="M0,130 C220,180 420,90 620,120 C840,150 1020,80 1200,120 L1200,220 L0,220 Z" fill="rgba(255,255,255,0.12)"></path>
+
+  <!-- Title -->
+  <g fill="#ffffff" text-anchor="middle">
+    <text x="600" y="105" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto" font-size="36" font-weight="700">
+      Arshnoor Singh
+    </text>
+    <text x="600" y="140" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto" font-size="16" opacity="0.95">
+      Developer · AI &amp; Product Builder @ SFU
+    </text>
+  </g>
+</svg>
