@@ -1,12 +1,29 @@
 <!-- Dynamic header with parallax effect -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Arshnoor%20Singh&fontSize=42&fontAlignY=33&desc=Building%20AI-first%20products%20that%20ship%20fast%20and%20scale&descSize=18&descAlignY=55&animation=twinkling" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Arshnoor%20Singh&fontSize=42&fontAlignY=33&desc=Building%20AI-first%20products%20that%20ship%20fast%20and%20scale&descSize=18&descAlignY=55&animation=twinkling&fontColor=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,30,5,2&height=180&section=header&text=Arshnoor%20Singh&fontSize=42&fontAlignY=33&desc=Building%20AI-first%20products%20that%20ship%20fast%20and%20scale&descSize=18&descAlignY=55&animation=twinkling&fontColor=363636">
+    <img width="100%" alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Arshnoor%20Singh&fontSize=42&fontAlignY=33&desc=Building%20AI-first%20products%20that%20ship%20fast%20and%20scale&descSize=18&descAlignY=55&animation=twinkling">
+  </picture>
 </div>
+
+<!-- Theme toggle instruction -->
+<div align="center">
+  <img src="https://img.shields.io/badge/🌓_Click_here_to_toggle_theme-000000?style=flat-square&color=555555" />
+  <br>
+  <sub>↑ Use GitHub's theme toggle in the top right corner or your system settings ↑</sub>
+</div>
+
+<br/>
 
 <!-- Animated bio with live status -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=900&lines=Full-Stack+Engineer+%40+SFU;Shipped+3+AI+Products+to+Production;Open+Source+Contributor;Currently%3A+Building+something+cool+%F0%9F%9A%80" alt="Typing SVG" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=900&lines=Full-Stack+Engineer+%40+SFU;Shipped+3+AI+Products+to+Production;Open+Source+Contributor;Currently%3A+Building+something+cool+%F0%9F%9A%80">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4338CA&center=true&vCenter=true&random=false&width=900&lines=Full-Stack+Engineer+%40+SFU;Shipped+3+AI+Products+to+Production;Open+Source+Contributor;Currently%3A+Building+something+cool+%F0%9F%9A%80">
+      <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=900&lines=Full-Stack+Engineer+%40+SFU;Shipped+3+AI+Products+to+Production;Open+Source+Contributor;Currently%3A+Building+something+cool+%F0%9F%9A%80" />
+    </picture>
   </a>
 </div>
 
@@ -45,9 +62,11 @@
     <td width="50%">
       <h3 align="center">🎙️ Scriptivox</h3>
       <div align="center">
-        <a href="https://github.com/arsh-911/scriptivox">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsh-911&repo=scriptivox&theme=radical&hide_border=true" alt="Scriptivox Repo Card" />
-        </a>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=arsh-911&repo=scriptivox&theme=radical&hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=arsh-911&repo=scriptivox&theme=swift&hide_border=true">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsh-911&repo=scriptivox&theme=radical&hide_border=true" alt="Scriptivox" />
+        </picture>
         <p><strong>AI Transcription SaaS</strong></p>
         <p>
           <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
@@ -60,9 +79,11 @@
     <td width="50%">
       <h3 align="center">🏥 Velvet</h3>
       <div align="center">
-        <a href="https://github.com/arsh-911/velvet">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsh-911&repo=velvet&theme=radical&hide_border=true" alt="Velvet Repo Card" />
-        </a>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=arsh-911&repo=velvet&theme=radical&hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=arsh-911&repo=velvet&theme=swift&hide_border=true">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsh-911&repo=velvet&theme=radical&hide_border=true" alt="Velvet" />
+        </picture>
         <p><strong>Healthcare AI Scribe</strong></p>
         <p>
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff" />
@@ -91,12 +112,20 @@
 
 ### Core Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,react,nodejs,postgres,redis,docker,aws" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,typescript,react,nodejs,postgres,redis,docker,aws&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,typescript,react,nodejs,postgres,redis,docker,aws&theme=light">
+    <img src="https://skillicons.dev/icons?i=python,typescript,react,nodejs,postgres,redis,docker,aws" />
+  </picture>
 </p>
 
 ### AI/ML
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=light">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  </picture>
   <img src="https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge&logo=langchain&logoColor=fff" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=fff" />
   <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=fff" />
@@ -104,7 +133,11 @@
 
 ### Currently Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=rust,go,kubernetes" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust,go,kubernetes&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=rust,go,kubernetes&theme=light">
+    <img src="https://skillicons.dev/icons?i=rust,go,kubernetes" />
+  </picture>
 </p>
 
 </div>
@@ -114,16 +147,44 @@
 ## 📊 Performance Metrics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arsh-911&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=arsh-911&theme=radical&hide_border=true" alt="Streak Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=arsh-911&show_icons=true&theme=radical&hide_border=true&rank_icon=github">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=arsh-911&show_icons=true&theme=swift&hide_border=true&rank_icon=github">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arsh-911&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=arsh-911&theme=radical&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=arsh-911&theme=swift&hide_border=true">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=arsh-911&theme=radical&hide_border=true" alt="Streak Stats" />
+  </picture>
 </div>
 
 <div align="center">
-  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=arsh-911&theme=redical&hide_border=true&custom_title=Contribution%20Graph&area=true" alt="Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=arsh-911&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph&area=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=arsh-911&theme=github-light&hide_border=true&custom_title=Contribution%20Graph&area=true">
+    <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=arsh-911&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph&area=true" alt="Activity Graph" />
+  </picture>
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsh-911&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arsh-911&layout=compact&theme=radical&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arsh-911&layout=compact&theme=swift&hide_border=true">
+    <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsh-911&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </picture>
+</div>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arsh-911/arsh-911/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arsh-911/arsh-911/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arsh-911/arsh-911/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </div>
 
 ---
@@ -131,7 +192,11 @@
 ## 🏆 Achievements & Recognition
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arsh-911&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=arsh-911&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=arsh-911&theme=flat&no-frame=true&column=4&margin-w=15&margin-h=15">
+    <img src="https://github-profile-trophy.vercel.app/?username=arsh-911&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </picture>
 </div>
 
 <div align="center">
@@ -144,11 +209,17 @@
 
 ## 📈 2025 Goals Progress
 
-- [x] Ship 3 production AI products
-- [x] Reach 100+ GitHub followers  
-- [ ] Contribute to major OSS project (60% complete)
-- [ ] Launch personal SaaS to $1K MRR (40% complete)
-- [ ] Complete CS degree @ SFU (75% complete)
+<div align="center">
+
+| Goal | Progress | Status |
+|------|----------|---------|
+| 🚀 Ship 3 production AI products | ████████████████████ 100% | ✅ Complete |
+| 👥 Reach 100+ GitHub followers | ████████████████████ 100% | ✅ Complete |
+| 🌟 Contribute to major OSS project | ████████████░░░░░░░░ 60% | 🔄 In Progress |
+| 💰 Launch personal SaaS to $1K MRR | ████████░░░░░░░░░░░░ 40% | 🔄 In Progress |
+| 🎓 Complete CS degree @ SFU | ███████████████░░░░░ 75% | 🔄 In Progress |
+
+</div>
 
 ---
 
@@ -268,7 +339,11 @@ class Arshnoor:
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=twinkling" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=twinkling">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,30,5,2&height=100&section=footer&animation=twinkling">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=twinkling" />
+  </picture>
   
   <p>
     <i>⭐ Star my repos if you find them useful!</i><br/>
