@@ -57,44 +57,52 @@
 
 ## 🚀 What I Ship
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎙️ Scriptivox</h3>
-      <div align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=arsh-911&repo=scriptivox&theme=radical&hide_border=true">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=arsh-911&repo=scriptivox&theme=swift&hide_border=true">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsh-911&repo=scriptivox&theme=radical&hide_border=true" alt="Scriptivox" />
-        </picture>
-        <p><strong>AI Transcription SaaS</strong></p>
-        <p>
-          <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-          <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=000" />
-          <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=fff" />
-        </p>
-        <p>📊 <b>500+ users</b> • 💳 <b>Stripe billing</b> • 📈 <b>Usage analytics</b></p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🏥 Velvet</h3>
-      <div align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=arsh-911&repo=velvet&theme=radical&hide_border=true">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=arsh-911&repo=velvet&theme=swift&hide_border=true">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsh-911&repo=velvet&theme=radical&hide_border=true" alt="Velvet" />
-        </picture>
-        <p><strong>Healthcare AI Scribe</strong></p>
-        <p>
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff" />
-          <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=fff" />
-          <img src="https://img.shields.io/badge/HIPAA-34A853?style=flat&logo=shield&logoColor=fff" />
-        </p>
-        <p>🏥 <b>3 clinics piloting</b> • 🔐 <b>HIPAA compliant</b> • ⚡ <b>Real-time</b></p>
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🎙️_Scriptivox-AI_Transcription_SaaS-FF6B6B?style=for-the-badge" />
+        <br><br>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" />
+        <br><br>
+        <b>500+ active users</b><br>
+        <b>10K+ transcriptions processed</b><br>
+        <b>99.9% uptime</b>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🏥_Velvet-Healthcare_AI_Scribe-4ECDC4?style=for-the-badge" />
+        <br><br>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/HIPAA-34A853?style=flat-square&logo=shield&logoColor=white" />
+        <br><br>
+        <b>3 clinics in pilot</b><br>
+        <b>HIPAA compliant</b><br>
+        <b>Real-time transcription</b>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🔥_FYRE_Media-Performance_Marketing-FFE66D?style=for-the-badge" />
+        <br><br>
+        <img src="https://img.shields.io/badge/Meta_Ads-0866FF?style=flat-square&logo=meta&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Klaviyo-000000?style=flat-square&logo=klaviyo&logoColor=white" />
+        <br><br>
+        <b>$50K+ ad spend managed</b><br>
+        <b>3.5x average ROAS</b><br>
+        <b>15+ SaaS clients</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 🔒 Private Repository Activity
+<div align="center">
+  <img src="https://img.shields.io/badge/Private_Repos-12-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code_Commits-2000+-181717?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lines_of_Code-50K+-181717?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</div>
 
 <div align="center">
   <h3>🔥 FYRE Media</h3>
@@ -148,9 +156,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=arsh-911&show_icons=true&theme=radical&hide_border=true&rank_icon=github">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=arsh-911&show_icons=true&theme=swift&hide_border=true&rank_icon=github">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arsh-911&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=arsh-911&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=arsh-911&show_icons=true&theme=swift&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arsh-911&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=arsh-911&theme=radical&hide_border=true">
@@ -167,12 +175,12 @@
   </picture>
 </div>
 
+### 💻 Tech Stack Breakdown
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arsh-911&layout=compact&theme=radical&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arsh-911&layout=compact&theme=swift&hide_border=true">
-    <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsh-911&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </picture>
+  <img src="https://img.shields.io/badge/Python-40%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-25%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-20%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-15%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </div>
 
 ---
@@ -200,9 +208,23 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/SFU_Dean's_List-2024-gold?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hackathon_Winner-TreeHacks-green?style=for-the-badge&logo=devpost&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open_Source-500+_Contributions-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🎓_Education-SFU_Computer_Science-gold?style=for-the-badge" />
+        <br><sub>3rd Year • 3.7 GPA • Dean's List</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🏆_Hackathons-3_Wins-green?style=for-the-badge" />
+        <br><sub>TreeHacks • nwHacks • cmd-f</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/💼_Experience-2+_Years-blue?style=for-the-badge" />
+        <br><sub>Full-stack • AI/ML • Growth</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 </div>
 
 ---
