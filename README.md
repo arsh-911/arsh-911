@@ -12,10 +12,10 @@
 
 <!-- Live status indicators -->
 <div align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Farsh-911&query=%24.public_repos&suffix=%20Repos&style=for-the-badge&logo=github&logoColor=white&label=Public&color=6366F1" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Farsh-911&query=%24.followers&suffix=%20Followers&style=for-the-badge&logo=github&logoColor=white&label=&color=EC4899" />
-  <img src="https://komarev.com/ghpvc/?username=arsh-911&style=for-the-badge&color=06B6D4&label=Profile+Views" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/github/followers/arsh-911?logo=github&style=for-the-badge&color=EC4899&labelColor=1e293b" />
+  <img src="https://img.shields.io/github/stars/arsh-911?logo=github&style=for-the-badge&color=6366F1&labelColor=1e293b" />
+  <img src="https://komarev.com/ghpvc/?username=arsh-911&style=for-the-badge&color=06B6D4&labelColor=1e293b" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e293b" />
 </div>
 
 <br/>
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/arshnoor.ca@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/arshnoorsingh">
-    <img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/arsh_911">
     <img src="https://img.shields.io/badge/@arsh__911-000000?style=for-the-badge&logo=x&logoColor=white" />
@@ -46,13 +46,13 @@
       <h3 align="center">🎙️ Scriptivox</h3>
       <div align="center">
         <a href="https://github.com/arsh-911/scriptivox">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsh-911&repo=scriptivox&theme=radical&hide_border=true" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsh-911&repo=scriptivox&theme=radical&hide_border=true" alt="Scriptivox Repo Card" />
         </a>
         <p><strong>AI Transcription SaaS</strong></p>
         <p>
-          <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-          <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=000" />
-          <img src="https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=fff" />
+          <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=000" />
+          <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=fff" />
         </p>
         <p>📊 <b>500+ users</b> • 💳 <b>Stripe billing</b> • 📈 <b>Usage analytics</b></p>
       </div>
@@ -61,13 +61,13 @@
       <h3 align="center">🏥 Velvet</h3>
       <div align="center">
         <a href="https://github.com/arsh-911/velvet">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsh-911&repo=velvet&theme=radical&hide_border=true" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsh-911&repo=velvet&theme=radical&hide_border=true" alt="Velvet Repo Card" />
         </a>
         <p><strong>Healthcare AI Scribe</strong></p>
         <p>
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
-          <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff" />
-          <img src="https://img.shields.io/badge/HIPAA-34A853?logo=shield&logoColor=fff" />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff" />
+          <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=fff" />
+          <img src="https://img.shields.io/badge/HIPAA-34A853?style=flat&logo=shield&logoColor=fff" />
         </p>
         <p>🏥 <b>3 clinics piloting</b> • 🔐 <b>HIPAA compliant</b> • ⚡ <b>Real-time</b></p>
       </div>
@@ -78,9 +78,9 @@
 <div align="center">
   <h3>🔥 FYRE Media</h3>
   <p><b>Performance Marketing Agency</b> • CRM/SaaS Growth • $50K+ in managed ad spend</p>
-  <img src="https://img.shields.io/badge/Meta_Ads-0866FF?logo=meta&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Google_Ads-4285F4?logo=google-ads&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Klaviyo-000000?logo=klaviyo&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Meta_Ads-0866FF?style=flat&logo=meta&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=flat&logo=google-ads&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Klaviyo-000000?style=flat&logo=klaviyo&logoColor=fff" />
 </div>
 
 ---
@@ -97,9 +97,9 @@
 ### AI/ML
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-  <img src="https://img.shields.io/badge/LangChain-1C1C1C?logo=langchain&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?logo=pinecone&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge&logo=langchain&logoColor=fff" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=fff" />
 </p>
 
 ### Currently Learning
@@ -114,38 +114,28 @@
 ## 📊 Performance Metrics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arsh-911&show_icons=true&theme=radical&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=github" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=arsh-911&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arsh-911&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=arsh-911&theme=radical&hide_border=true" alt="Streak Stats" />
 </div>
 
 <div align="center">
-  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=arsh-911&theme=redical&hide_border=true&custom_title=Contribution%20Graph&area=true" />
+  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=arsh-911&theme=redical&hide_border=true&custom_title=Contribution%20Graph&area=true" alt="Activity Graph" />
 </div>
 
-<details>
-<summary><b>⚡ Recent GitHub Activity</b></summary>
-<br/>
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/arsh-911/scriptivox/pull/42) in scriptivox
-2. 💪 Opened PR [#18](https://github.com/arsh-911/velvet/pull/18) in velvet
-3. 🗣 Commented on [#1337](https://github.com/langchain-ai/langchain/issues/1337) in langchain
-4. ⭐ Starred [openai/whisper](https://github.com/openai/whisper)
-5. 🔥 Pushed 23 commits to scriptivox
-<!--END_SECTION:activity-->
-
-</details>
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsh-911&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
 ## 🏆 Achievements & Recognition
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arsh-911&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arsh-911&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/SFU_Dean's_List-2024-gold?style=for-the-badge&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/SFU_Dean's_List-2024-gold?style=for-the-badge&logo=graduation-cap&logoColor=white" />
   <img src="https://img.shields.io/badge/Hackathon_Winner-TreeHacks-green?style=for-the-badge&logo=devpost&logoColor=white" />
   <img src="https://img.shields.io/badge/Open_Source-500+_Contributions-blue?style=for-the-badge&logo=github&logoColor=white" />
 </div>
@@ -162,12 +152,20 @@
 
 ---
 
-## 💭 Latest Blog Posts
+## 💡 Recent Projects & Activity
 
+### 🔨 Currently Working On
+- **AI Voice Agent Platform** - Building conversational AI for customer support
+- **Open Source Contributions** - Active in LangChain and OpenAI communities
+- **SaaS Boilerplate** - Creating a production-ready Next.js + Supabase starter
+
+### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Production AI Apps: Lessons from Scriptivox](https://arshnoor.dev/blog/scriptivox-lessons)
-- [Why I Chose Supabase over Firebase for My SaaS](https://arshnoor.dev/blog/supabase-vs-firebase)
-- [Real-time Transcription with Whisper: A Deep Dive](https://arshnoor.dev/blog/whisper-realtime)
+- 🚀 [Building Production AI Apps: Lessons from Scriptivox](https://arshnoor.dev/blog/scriptivox-lessons)
+- 💡 [Why I Chose Supabase over Firebase for My SaaS](https://arshnoor.dev/blog/supabase-vs-firebase)
+- 🎙️ [Real-time Transcription with Whisper: A Deep Dive](https://arshnoor.dev/blog/whisper-realtime)
+- 🏥 [HIPAA Compliance in Healthcare AI: A Developer's Guide](https://arshnoor.dev/blog/hipaa-ai)
+- 📈 [Scaling from 0 to 500 Users: Growth Lessons](https://arshnoor.dev/blog/growth-lessons)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -176,18 +174,39 @@
 
 <div align="center">
   <h3>I'm actively looking for:</h3>
-  <p>
-    <b>• SWE Internships (Summer 2025)</b><br/>
-    <b>• AI/ML Engineering Roles</b><br/>
-    <b>• Open Source Collaborations</b><br/>
-    <b>• Technical Co-founders</b>
-  </p>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/SWE_Internships-Summer_2025-brightgreen?style=for-the-badge" />
+        <br>Full-stack, AI/ML, or Growth Engineering
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Open_Source-Collaborations-blue?style=for-the-badge" />
+        <br>AI tools, developer productivity, SaaS
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Technical-Co--founders-purple?style=for-the-badge" />
+        <br>Building the next big thing in AI
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Freelance-Projects-orange?style=for-the-badge" />
+        <br>MVP development, AI integration
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
   
   <a href="mailto:arshnoor.ca@gmail.com">
     <img src="https://img.shields.io/badge/Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://calendly.com/arshnoor">
     <img src="https://img.shields.io/badge/Book_a_Call-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/arshnoor">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
 
@@ -217,10 +236,33 @@ class Arshnoor:
 
 ---
 
-## 🐍 Contribution Snake
+## 📍 Find Me Around the Web
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/arsh-911/arsh-911/output/github-contribution-grid-snake-dark.svg" />
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/arsh-911">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://stackoverflow.com/users/arshnoor">
+          <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://dev.to/arshnoor">
+          <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://medium.com/@arshnoor">
+          <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -234,4 +276,9 @@ class Arshnoor:
   </p>
   
   <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-05122A?style=for-the-badge" />
+  
+  <br/><br/>
+  
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
 </div>
