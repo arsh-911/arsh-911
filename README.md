@@ -223,7 +223,7 @@
     <tr>
       <td align="center">
         <img src="https://img.shields.io/badge/🎓_Education-SFU_Computer_Science-gold?style=for-the-badge" />
-        <br><sub>Graduating April 2026 • Burnaby, BC</sub>
+        <br><sub>Graduating April 2027 • Burnaby, BC</sub>
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/💼_Experience-2_Internships-blue?style=for-the-badge" />
@@ -246,7 +246,7 @@ class Arshnoor:
     def __init__(self):
         self.location = "Coquitlam, BC 🇨🇦"
         self.education = "B.Sc. Computer Science @ Simon Fraser University"
-        self.graduation = "April 2026"
+        self.graduation = "April 2027"
         self.current_role = "Full Stack Developer Intern @ We.inc"
         self.building = "Scriptivox - AI Transcription Platform"
         
