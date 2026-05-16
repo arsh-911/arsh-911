@@ -9,9 +9,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&fontColor=0e78d8&text=arsh&fontSize=80&fontAlignY=42&height=160&desc=co-founder%20%C2%B7%20scriptivox.com&descSize=18&descAlignY=78&descColor=8b8b95">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&fontColor=0e78d8&text=arsh&fontSize=80&fontAlignY=42&height=160&desc=co-founder%20%C2%B7%20scriptivox.com&descSize=18&descAlignY=78&descColor=6b7280">
-    <img alt="arsh, co-founder of scriptivox" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0e78d8&text=arsh&fontSize=80&fontAlignY=42&height=160&desc=co-founder%20%C2%B7%20scriptivox.com&descSize=18&descAlignY=78&descColor=8b8b95">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&fontColor=0e78d8&text=Arsh&fontSize=80&fontAlignY=42&height=160&desc=co-founder%20%C2%B7%20scriptivox.com&descSize=18&descAlignY=78&descColor=8b8b95">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&fontColor=0e78d8&text=Arsh&fontSize=80&fontAlignY=42&height=160&desc=co-founder%20%C2%B7%20scriptivox.com&descSize=18&descAlignY=78&descColor=6b7280">
+    <img alt="Arsh, co-founder of scriptivox" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0e78d8&text=Arsh&fontSize=80&fontAlignY=42&height=160&desc=co-founder%20%C2%B7%20scriptivox.com&descSize=18&descAlignY=78&descColor=8b8b95">
   </picture>
 </div>
 
