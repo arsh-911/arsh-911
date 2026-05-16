@@ -7,16 +7,16 @@
 <!-- ─── CINEMATIC HEADER ─────────────────────────────────────────────── -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,45:0e78d8,100:8b5cf6&height=260&section=header&text=scriptivox&fontSize=88&fontColor=fafafa&fontAlignY=38&desc=voice%20is%20the%20new%20keyboard.&descSize=22&descAlignY=62&descColor=fafafa&animation=fadeIn">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,45:0e78d8,100:8b5cf6&height=260&section=header&text=scriptivox&fontSize=88&fontColor=ffffff&fontAlignY=38&desc=voice%20is%20the%20new%20keyboard.&descSize=22&descAlignY=62&descColor=ffffff&animation=fadeIn">
-    <img width="100%" alt="scriptivox" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,45:0e78d8,100:8b5cf6&height=260&section=header&text=scriptivox&fontSize=88&fontColor=fafafa&fontAlignY=38&desc=voice%20is%20the%20new%20keyboard.&descSize=22&descAlignY=62&descColor=fafafa&animation=fadeIn">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0e78d8,100:8b5cf6&height=320&section=header&text=scriptivox&fontSize=110&fontColor=ffffff&fontAlignY=40&desc=voice%20is%20the%20new%20keyboard.&descSize=28&descAlignY=68&descColor=ffffff&animation=fadeIn">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0e78d8,100:8b5cf6&height=320&section=header&text=scriptivox&fontSize=110&fontColor=ffffff&fontAlignY=40&desc=voice%20is%20the%20new%20keyboard.&descSize=28&descAlignY=68&descColor=ffffff&animation=fadeIn">
+    <img width="100%" alt="scriptivox · voice is the new keyboard" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e78d8,100:8b5cf6&height=320&section=header&text=scriptivox&fontSize=110&fontColor=ffffff&fontAlignY=40&desc=voice%20is%20the%20new%20keyboard.&descSize=28&descAlignY=68&descColor=ffffff&animation=fadeIn">
   </picture>
 </div>
 
 <!-- ─── ANIMATED TYPING ──────────────────────────────────────────────── -->
 <div align="center">
   <a href="https://scriptivox.com">
-    <img alt="what we're building" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=0e78d8&center=true&vCenter=true&width=900&lines=hi%2C+we're+arsh+%2B+abhishek.+we're+building+scriptivox.;today%3A+the+most+accurate+transcription+API+for+developers.;tomorrow%3A+scriptivox+speech.+stop+typing%2C+start+speaking.;%24X%2CXXX+MRR.+real+customers.+real+money.;welcome+to+the+post-keyboard+era." />
+    <img alt="what we're building" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=0e78d8&center=true&vCenter=true&width=1000&height=60&lines=hi%2C+we're+arsh+%2B+abhishek.+we're+building+scriptivox.;today%3A+the+most+accurate+transcription+API+for+developers.;tomorrow%3A+scriptivox+speech.+stop+typing%2C+start+speaking.;%24X%2CXXX+MRR.+real+customers.+real+money.;welcome+to+the+post-keyboard+era." />
   </a>
 </div>
 
@@ -24,10 +24,9 @@
 
 <!-- ─── IDENTITY STRIP ───────────────────────────────────────────────── -->
 <div align="center">
-  <a href="https://scriptivox.com"><img alt="scriptivox.com" src="https://img.shields.io/badge/%E2%96%B6_scriptivox.com-0e78d8?style=for-the-badge&labelColor=09090b&color=0e78d8&logoColor=fafafa"></a>
+  <a href="https://scriptivox.com"><img alt="scriptivox.com" src="https://img.shields.io/badge/%E2%96%B6_scriptivox.com-0e78d8?style=for-the-badge&labelColor=09090b&color=0e78d8&logoColor=ffffff"></a>
   <a href="https://scriptivox.com/docs"><img alt="docs" src="https://img.shields.io/badge/api_docs-09090b?style=for-the-badge&logo=readthedocs&logoColor=0e78d8&labelColor=09090b"></a>
-  <a href="https://linkedin.com/in/arsh911"><img alt="arsh on linkedin" src="https://img.shields.io/badge/arsh-09090b?style=for-the-badge&logo=linkedin&logoColor=0e78d8&labelColor=09090b"></a>
-  <a href="#"><img alt="abhishek on linkedin" src="https://img.shields.io/badge/abhishek-09090b?style=for-the-badge&logo=linkedin&logoColor=8b5cf6&labelColor=09090b"></a>
+  <a href="https://linkedin.com/in/arsh911"><img alt="arsh on linkedin" src="https://img.shields.io/badge/founder%3A_arsh-09090b?style=for-the-badge&logo=linkedin&logoColor=0e78d8&labelColor=09090b"></a>
   <img alt="visitors" src="https://komarev.com/ghpvc/?username=arsh-911&style=for-the-badge&color=8b5cf6&label=VISITORS&labelColor=09090b">
 </div>
 
@@ -36,42 +35,38 @@
 
 <!-- ─── FOUNDERS / SPEC CARD ─────────────────────────────────────────── -->
 
-<div align="center">
-
-<table>
+<table align="center" width="100%">
   <tr>
     <td colspan="2" align="center">
-      <h3>SCRIPTIVOX</h3>
-      <sub>founders &nbsp;·&nbsp; <a href="https://linkedin.com/in/arsh911"><b>arsh</b></a> &nbsp;+&nbsp; <a href="#"><b>abhishek</b></a></sub>
+      <h2>SCRIPTIVOX</h2>
+      <h4>founders &nbsp;·&nbsp; <a href="https://linkedin.com/in/arsh911">arsh</a> &nbsp;+&nbsp; abhishek</h4>
     </td>
   </tr>
   <tr>
-    <td align="right"><b>category</b></td>
-    <td>voice infrastructure for the post-keyboard era</td>
+    <td align="right" width="22%"><h4>category</h4></td>
+    <td><h4>voice infrastructure for the post-keyboard era</h4></td>
   </tr>
   <tr>
-    <td align="right"><b>today</b></td>
-    <td>transcription API used in production</td>
+    <td align="right"><h4>today</h4></td>
+    <td><h4>transcription API used in production</h4></td>
   </tr>
   <tr>
-    <td align="right"><b>tomorrow</b></td>
-    <td>scriptivox speech &nbsp;·&nbsp; voice-first input &nbsp;·&nbsp; system-wide</td>
+    <td align="right"><h4>tomorrow</h4></td>
+    <td><h4>scriptivox speech &nbsp;·&nbsp; voice-first input &nbsp;·&nbsp; system-wide</h4></td>
   </tr>
   <tr>
-    <td align="right"><b>traction</b></td>
-    <td>$X,XXX MRR &nbsp;·&nbsp; growing every month</td>
+    <td align="right"><h4>traction</h4></td>
+    <td><h4>$X,XXX MRR &nbsp;·&nbsp; growing every month</h4></td>
   </tr>
   <tr>
-    <td align="right"><b>customers</b></td>
-    <td>developers, teams, recording studios, podcasters</td>
+    <td align="right"><h4>customers</h4></td>
+    <td><h4>developers, teams, recording studios, podcasters</h4></td>
   </tr>
   <tr>
-    <td align="right"><b>hq</b></td>
-    <td>coquitlam, BC 🇨🇦</td>
+    <td align="right"><h4>hq</h4></td>
+    <td><h4>coquitlam, BC 🇨🇦</h4></td>
   </tr>
 </table>
-
-</div>
 
 <br/>
 <br/>
@@ -80,38 +75,37 @@
                               ▶ TODAY
 ═════════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">▶ &nbsp; today</h2>
-<h3 align="center"><em>the transcription platform that ships in production</em></h3>
+<div align="center">
+  <img alt="today" width="100%" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0e78d8&text=%E2%96%B6%20TODAY&fontSize=90&fontAlignY=42&height=160&desc=the%20transcription%20platform%20that%20ships%20in%20production&descSize=22&descAlignY=82&descColor=ffffff&animation=fadeIn">
+</div>
 
 <p align="center">
+<h3 align="center">
 scriptivox turns audio into clean, accurate, multilingual text.<br/>
 records meetings, ships a developer API, exports your audio into nine different formats.<br/>
-used by paying customers every day, in 119 languages, with speaker diarization built in.
+used by paying customers every day, in 119 languages.
+</h3>
 </p>
 
 <br/>
 
-<div align="center">
-
-| what you get | what it does |
-|:---|:---|
-| 🎙 &nbsp; **meeting recording** | calendar auto-join, async summaries, share links |
-| 🔌 &nbsp; **public API** | `$0.20` per hour, async, presigned uploads, webhooks |
-| 📦 &nbsp; **MCP server** | bring transcription straight into claude desktop |
-| 🌐 &nbsp; **119 languages** | auto-detected, speaker-diarized, word-level timestamps |
-| 📤 &nbsp; **9 export formats** | srt · vtt · pdf · docx · txt · ass · sbv · stl · csv |
-| 🛠 &nbsp; **42 free tools** | trim, convert, join, edit audio in your browser |
-| 💼 &nbsp; **dashboard** | stripe billing, teams, audit logs, row-level security |
-| 🌎 &nbsp; **27 converters** | mp3↔srt, mp4↔vtt, every combo you'd ever paste-and-pray |
-
-</div>
+<table align="center" width="100%">
+  <tr><td width="50%"><h3>🎙 &nbsp; meeting recording</h3></td><td><h4>calendar auto-join, async summaries, share links</h4></td></tr>
+  <tr><td><h3>🔌 &nbsp; public API</h3></td><td><h4><code>$0.20</code> per hour, async, presigned uploads, webhooks</h4></td></tr>
+  <tr><td><h3>📦 &nbsp; MCP server</h3></td><td><h4>bring transcription straight into claude desktop</h4></td></tr>
+  <tr><td><h3>🌐 &nbsp; 119 languages</h3></td><td><h4>auto-detected, speaker-diarized, word-level timestamps</h4></td></tr>
+  <tr><td><h3>📤 &nbsp; 9 export formats</h3></td><td><h4>srt · vtt · pdf · docx · txt · ass · sbv · stl · csv</h4></td></tr>
+  <tr><td><h3>🛠 &nbsp; 42 free tools</h3></td><td><h4>trim, convert, join, edit audio in your browser</h4></td></tr>
+  <tr><td><h3>💼 &nbsp; dashboard</h3></td><td><h4>stripe billing, teams, audit logs, row-level security</h4></td></tr>
+  <tr><td><h3>🌎 &nbsp; 27 converters</h3></td><td><h4>mp3↔srt, mp4↔vtt, every combo you'd ever paste-and-pray</h4></td></tr>
+</table>
 
 <br/>
 
 <p align="center">
-  <a href="https://scriptivox.com"><img src="https://img.shields.io/badge/try_scriptivox-0e78d8?style=for-the-badge&labelColor=09090b&logoColor=fafafa" /></a>
+  <a href="https://scriptivox.com"><img height="44" src="https://img.shields.io/badge/▶_TRY_SCRIPTIVOX-0e78d8?style=for-the-badge&labelColor=09090b&logoColor=ffffff" /></a>
   &nbsp;
-  <a href="https://scriptivox.com/docs"><img src="https://img.shields.io/badge/read_the_docs-09090b?style=for-the-badge&color=0e78d8&labelColor=09090b" /></a>
+  <a href="https://scriptivox.com/docs"><img height="44" src="https://img.shields.io/badge/READ_THE_DOCS-09090b?style=for-the-badge&color=0e78d8&labelColor=09090b" /></a>
 </p>
 
 <br/>
@@ -121,48 +115,51 @@ used by paying customers every day, in 119 languages, with speaker diarization b
                             ▶ TOMORROW
 ═════════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">▶ &nbsp; tomorrow</h2>
-<h3 align="center"><em>scriptivox speech &nbsp;·&nbsp; the keyboard you don't touch</em></h3>
+<div align="center">
+  <img alt="tomorrow" width="100%" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8b5cf6&text=%E2%96%B6%20TOMORROW&fontSize=90&fontAlignY=42&height=160&desc=scriptivox%20speech%20%C2%B7%20the%20keyboard%20you%20don%27t%20touch&descSize=22&descAlignY=82&descColor=ffffff&animation=fadeIn">
+</div>
 
-<p align="center">
+<h3 align="center">
 the keyboard is the slowest part of your computer.<br/>
 people speak three times faster than they type, and yet every product on your screen still asks you to type.<br/>
 we think that ends.
-</p>
+</h3>
 
-<p align="center">
+<br/>
+
+<h3 align="center">
 <b>scriptivox speech</b> is system-wide voice-first input.<br/>
 you hold a key. you talk. you let go. clean text appears.<br/>
 anywhere you'd normally type. no transcripts to copy-paste. no separate app to open.<br/>
 just speak, get text, keep working.
-</p>
+</h3>
 
 <br/>
 
-<div align="center">
+<table align="center" width="100%">
+  <tr>
+    <th><h3>where you'd be typing</h3></th>
+    <th><h3>what speech does instead</h3></th>
+  </tr>
+  <tr><td align="center"><h4>slack messages</h4></td><td align="center"><h4>speak in full sentences</h4></td></tr>
+  <tr><td align="center"><h4>emails to your team</h4></td><td align="center"><h4>five times faster than typing</h4></td></tr>
+  <tr><td align="center"><h4>notion docs</h4></td><td align="center"><h4>stay in flow, no context switch</h4></td></tr>
+  <tr><td align="center"><h4>github issues</h4></td><td align="center"><h4>punctuation handled for you</h4></td></tr>
+  <tr><td align="center"><h4>every comment thread</h4></td><td align="center"><h4>every app, every textbox</h4></td></tr>
+  <tr><td align="center"><h4>every keyboard shortcut</h4></td><td align="center"><h4>one hotkey to rule them all</h4></td></tr>
+</table>
 
-| where you'd be typing | what speech does instead |
-|:---:|:---:|
-| slack messages | speak in full sentences |
-| emails to your team | five times faster than typing |
-| notion docs | stay in flow, no context switch |
-| github issues | punctuation handled for you |
-| every comment thread | every app, every textbox |
-| every keyboard shortcut | one hotkey to rule them all |
+<br/>
 
-</div>
+<h3 align="center">
+<i>same whisper pipeline that powers scriptivox transcription today.<br/>
+same 119 languages. same accuracy. now everywhere you'd ever type.</i>
+</h3>
 
 <br/>
 
 <p align="center">
-<i>same whisper pipeline that powers scriptivox transcription today.</i><br/>
-<i>same 119 languages. same accuracy. now everywhere you'd ever type.</i>
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="https://scriptivox.com"><img src="https://img.shields.io/badge/join_the_speech_waitlist-8b5cf6?style=for-the-badge&labelColor=09090b&logoColor=fafafa" /></a>
+  <a href="https://scriptivox.com"><img height="44" src="https://img.shields.io/badge/JOIN_THE_SPEECH_WAITLIST-8b5cf6?style=for-the-badge&labelColor=09090b&logoColor=ffffff" /></a>
 </p>
 
 <br/>
@@ -172,17 +169,16 @@ just speak, get text, keep working.
                             ▶ THE API
 ═════════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">▶ &nbsp; the api</h2>
-<h3 align="center"><em>built for developers &nbsp;·&nbsp; async &nbsp;·&nbsp; webhook-native &nbsp;·&nbsp; MCP-compatible</em></h3>
+<div align="center">
+  <img alt="the api" width="100%" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0e78d8&text=%E2%96%B6%20THE%20API&fontSize=90&fontAlignY=42&height=160&desc=built%20for%20developers%20%C2%B7%20async%20%C2%B7%20webhook-native%20%C2%B7%20MCP-compatible&descSize=20&descAlignY=82&descColor=ffffff&animation=fadeIn">
+</div>
 
-<p align="center">
+<h3 align="center">
 two endpoints. JSON in, JSON out. async by default, with webhooks the moment your transcript is ready.<br/>
 no SDK lock-in. <code>$0.20</code> per audio-hour, billed by the second.
-</p>
+</h3>
 
 <br/>
-
-<div align="center">
 
 ```bash
 curl https://api.scriptivox.com/v1/transcribe \
@@ -196,12 +192,6 @@ curl https://api.scriptivox.com/v1/transcribe \
   }'
 ```
 
-</div>
-
-<br/>
-
-<div align="center">
-
 ```json
 {
   "id": "tx_K9d2nVbq",
@@ -214,23 +204,17 @@ curl https://api.scriptivox.com/v1/transcribe \
 }
 ```
 
-</div>
-
 <br/>
 
-<div align="center">
-
-| what's in the box | |
-|:---|:---|
-| **async + sync** | submit url or upload, get a webhook on completion |
-| **language auto-detect** | 119 supported, or force one with a flag |
-| **speaker diarization** | who said what, with timestamps |
-| **word-level timestamps** | every word, to the millisecond |
-| **9 export formats** | srt, vtt, pdf, docx, txt, ass, sbv, stl, csv |
-| **MCP-compatible** | plugs into claude desktop natively |
-| **webhook security** | signed payloads, retries with backoff |
-
-</div>
+<table align="center" width="100%">
+  <tr><td width="40%"><h3>async + sync</h3></td><td><h4>submit url or upload, get a webhook on completion</h4></td></tr>
+  <tr><td><h3>language auto-detect</h3></td><td><h4>119 supported, or force one with a flag</h4></td></tr>
+  <tr><td><h3>speaker diarization</h3></td><td><h4>who said what, with timestamps</h4></td></tr>
+  <tr><td><h3>word-level timestamps</h3></td><td><h4>every word, to the millisecond</h4></td></tr>
+  <tr><td><h3>9 export formats</h3></td><td><h4>srt, vtt, pdf, docx, txt, ass, sbv, stl, csv</h4></td></tr>
+  <tr><td><h3>MCP-compatible</h3></td><td><h4>plugs into claude desktop natively</h4></td></tr>
+  <tr><td><h3>webhook security</h3></td><td><h4>signed payloads, retries with backoff</h4></td></tr>
+</table>
 
 <br/>
 <br/>
@@ -239,10 +223,9 @@ curl https://api.scriptivox.com/v1/transcribe \
                           ▶ HOW IT WORKS
 ═════════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">▶ &nbsp; how it works</h2>
-<h3 align="center"><em>the pipeline behind every transcript</em></h3>
-
-<br/>
+<div align="center">
+  <img alt="how it works" width="100%" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8b5cf6&text=%E2%96%B6%20HOW%20IT%20WORKS&fontSize=80&fontAlignY=42&height=160&desc=the%20pipeline%20behind%20every%20transcript&descSize=22&descAlignY=82&descColor=ffffff&animation=fadeIn">
+</div>
 
 ```mermaid
 flowchart LR
@@ -253,18 +236,18 @@ flowchart LR
     GPU --> WH[webhook<br/>store + share token]
     WH --> OUT([📤 clean text out])
 
-    classDef hot fill:#0e78d8,stroke:#09090b,color:#fafafa,font-weight:bold
-    classDef warm fill:#8b5cf6,stroke:#09090b,color:#fafafa,font-weight:bold
-    classDef cool fill:#18181b,stroke:#0e78d8,color:#fafafa
+    classDef hot fill:#0e78d8,stroke:#09090b,color:#ffffff,font-weight:bold
+    classDef warm fill:#8b5cf6,stroke:#09090b,color:#ffffff,font-weight:bold
+    classDef cool fill:#18181b,stroke:#0e78d8,color:#ffffff
     class CF hot
     class GPU warm
     class EDGE,CR,WH cool
 ```
 
-<p align="center">
+<h3 align="center">
 async by default. survives retries. presigned uploads. atomic job claiming.<br/>
 the same backbone that will power scriptivox speech.
-</p>
+</h3>
 
 <br/>
 <br/>
@@ -273,9 +256,9 @@ the same backbone that will power scriptivox speech.
                            ▶ BUILT WITH
 ═════════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">▶ &nbsp; built with</h2>
-
-<br/>
+<div align="center">
+  <img alt="built with" width="100%" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0e78d8&text=%E2%96%B6%20BUILT%20WITH&fontSize=90&fontAlignY=50&height=140&animation=fadeIn">
+</div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,deno,postgres,tailwind,cloudflare,docker,aws,git&perline=12" />
@@ -283,18 +266,15 @@ the same backbone that will power scriptivox speech.
 
 <br/>
 
-<div align="center">
-
-| layer | what we use |
-|:---:|:---|
-| **frontend** | next.js · typescript · tailwind · radix · shadcn · ffmpeg-wasm |
-| **edge** | cloudflare workers for routing, auth, rate-limit |
-| **api** | typescript, deno runtime, async-first |
-| **inference** | whisperx for transcription · diarization layer · GPU-backed |
-| **data** | postgres with row-level security |
-| **ops** | stripe · sentry · vercel |
-
-</div>
+<table align="center" width="100%">
+  <tr><th><h3>layer</h3></th><th><h3>what we use</h3></th></tr>
+  <tr><td align="center"><h3>frontend</h3></td><td><h4>next.js · typescript · tailwind · radix · shadcn · ffmpeg-wasm</h4></td></tr>
+  <tr><td align="center"><h3>edge</h3></td><td><h4>cloudflare workers for routing, auth, rate-limit</h4></td></tr>
+  <tr><td align="center"><h3>api</h3></td><td><h4>typescript, deno runtime, async-first</h4></td></tr>
+  <tr><td align="center"><h3>inference</h3></td><td><h4>whisperx for transcription · diarization layer · GPU-backed</h4></td></tr>
+  <tr><td align="center"><h3>data</h3></td><td><h4>postgres with row-level security</h4></td></tr>
+  <tr><td align="center"><h3>ops</h3></td><td><h4>stripe · sentry · vercel</h4></td></tr>
+</table>
 
 <br/>
 <br/>
@@ -303,19 +283,19 @@ the same backbone that will power scriptivox speech.
                        ▶ SHIPPING IN PUBLIC
 ═════════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">▶ &nbsp; shipping in public</h2>
-
-<br/>
+<div align="center">
+  <img alt="shipping in public" width="100%" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8b5cf6&text=%E2%96%B6%20SHIPPING%20IN%20PUBLIC&fontSize=72&fontAlignY=50&height=140&animation=fadeIn">
+</div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arsh-911&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=0e78d8&icon_color=0e78d8&text_color=fafafa&bg_color=09090b&card_width=445&rank_icon=github" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=arsh-911&hide_border=true&background=09090b&stroke=0e78d855&ring=0e78d8&fire=8b5cf6&currStreakLabel=0e78d8&currStreakNum=fafafa&sideLabels=fafafa&dates=fafafa&sideNums=8b5cf6" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=arsh-911&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=0e78d8&icon_color=0e78d8&text_color=ffffff&bg_color=09090b&card_width=495&rank_icon=github" />
+  <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=arsh-911&hide_border=true&background=09090b&stroke=0e78d855&ring=0e78d8&fire=8b5cf6&currStreakLabel=0e78d8&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&sideNums=8b5cf6" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=arsh-911&bg_color=09090b&color=fafafa&line=0e78d8&point=8b5cf6&area=true&hide_border=true&custom_title=commits%2C+last+year" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arsh-911&bg_color=09090b&color=ffffff&line=0e78d8&point=8b5cf6&area=true&hide_border=true&custom_title=commits%2C+last+year" />
 </div>
 
 <br/>
@@ -335,31 +315,31 @@ the same backbone that will power scriptivox speech.
                               ▶ CTA
 ═════════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">the post-keyboard era starts at scriptivox.</h2>
+<div align="center">
+  <img alt="the post-keyboard era starts here" width="100%" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=the%20post-keyboard%20era%20starts%20at%20scriptivox.&fontSize=42&fontAlignY=50&height=130&animation=fadeIn">
+</div>
 
-<p align="center">
+<h3 align="center">
 follow the build. try the product. join the waitlist for speech.<br/>
 we ship every week.
-</p>
+</h3>
 
 <br/>
 
 <p align="center">
-  <a href="https://scriptivox.com"><img src="https://img.shields.io/badge/try_scriptivox-0e78d8?style=for-the-badge&labelColor=09090b&logoColor=fafafa" /></a>
+  <a href="https://scriptivox.com"><img height="50" src="https://img.shields.io/badge/▶_TRY_SCRIPTIVOX-0e78d8?style=for-the-badge&labelColor=09090b&logoColor=ffffff" /></a>
   &nbsp;
-  <a href="https://scriptivox.com"><img src="https://img.shields.io/badge/speech_waitlist-8b5cf6?style=for-the-badge&labelColor=09090b&logoColor=fafafa" /></a>
+  <a href="https://scriptivox.com"><img height="50" src="https://img.shields.io/badge/SPEECH_WAITLIST-8b5cf6?style=for-the-badge&labelColor=09090b&logoColor=ffffff" /></a>
   &nbsp;
-  <a href="https://linkedin.com/in/arsh911"><img src="https://img.shields.io/badge/follow_arsh-09090b?style=for-the-badge&logo=linkedin&logoColor=0e78d8&labelColor=09090b" /></a>
-  &nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/follow_abhishek-09090b?style=for-the-badge&logo=linkedin&logoColor=8b5cf6&labelColor=09090b" /></a>
+  <a href="https://linkedin.com/in/arsh911"><img height="50" src="https://img.shields.io/badge/FOLLOW_ARSH-09090b?style=for-the-badge&logo=linkedin&logoColor=0e78d8&labelColor=09090b" /></a>
 </p>
 
 <br/>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:0e78d8,100:09090b&height=120&section=footer&animation=fadeIn">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:0e78d8,100:ffffff&height=120&section=footer&animation=fadeIn">
-    <img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:0e78d8,100:09090b&height=120&section=footer&animation=fadeIn">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:0e78d8&height=140&section=footer&animation=fadeIn">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:0e78d8&height=140&section=footer&animation=fadeIn">
+    <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:0e78d8&height=140&section=footer&animation=fadeIn">
   </picture>
 </div>
