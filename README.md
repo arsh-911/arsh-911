@@ -1,320 +1,365 @@
-<!-- Dynamic header with parallax effect -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!--   scriptivox · founders: arsh + abhishek                            -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+
+<a name="top"></a>
+
+<!-- ─── CINEMATIC HEADER ─────────────────────────────────────────────── -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Arshnoor%20Singh&fontSize=42&fontAlignY=33&desc=Full%20Stack%20Developer%20%7C%20Building%20AI-Powered%20Products&descSize=18&descAlignY=55&animation=twinkling&fontColor=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,30,5,2&height=180&section=header&text=Arshnoor%20Singh&fontSize=42&fontAlignY=33&desc=Full%20Stack%20Developer%20%7C%20Building%20AI-Powered%20Products&descSize=18&descAlignY=55&animation=twinkling&fontColor=363636">
-    <img width="100%" alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Arshnoor%20Singh&fontSize=42&fontAlignY=33&desc=Full%20Stack%20Developer%20%7C%20Building%20AI-Powered%20Products&descSize=18&descAlignY=55&animation=twinkling">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,45:0e78d8,100:8b5cf6&height=260&section=header&text=scriptivox&fontSize=88&fontColor=fafafa&fontAlignY=38&desc=voice%20is%20the%20new%20keyboard.&descSize=22&descAlignY=62&descColor=fafafa&animation=fadeIn">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,45:0e78d8,100:8b5cf6&height=260&section=header&text=scriptivox&fontSize=88&fontColor=ffffff&fontAlignY=38&desc=voice%20is%20the%20new%20keyboard.&descSize=22&descAlignY=62&descColor=ffffff&animation=fadeIn">
+    <img width="100%" alt="scriptivox" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,45:0e78d8,100:8b5cf6&height=260&section=header&text=scriptivox&fontSize=88&fontColor=fafafa&fontAlignY=38&desc=voice%20is%20the%20new%20keyboard.&descSize=22&descAlignY=62&descColor=fafafa&animation=fadeIn">
   </picture>
 </div>
 
-<!-- Theme toggle instruction -->
+<!-- ─── ANIMATED TYPING ──────────────────────────────────────────────── -->
 <div align="center">
-  <img src="https://img.shields.io/badge/🌓_Toggle_theme_in_settings-000000?style=flat-square&color=555555" />
-</div>
-
-<br/>
-
-<!-- Animated bio with live status -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=900&lines=Full+Stack+Developer+Intern+%40+We.inc;CS+Student+%40+Simon+Fraser+University;Building+Scriptivox+-+AI+Transcription+SaaS;Passionate+about+System+Design+%26+Scalability">
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4338CA&center=true&vCenter=true&random=false&width=900&lines=Full+Stack+Developer+Intern+%40+We.inc;CS+Student+%40+Simon+Fraser+University;Building+Scriptivox+-+AI+Transcription+SaaS;Passionate+about+System+Design+%26+Scalability">
-      <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=900&lines=Full+Stack+Developer+Intern+%40+We.inc;CS+Student+%40+Simon+Fraser+University;Building+Scriptivox+-+AI+Transcription+SaaS;Passionate+about+System+Design+%26+Scalability" />
-    </picture>
-  </a>
-</div>
-
-<!-- Live status indicators -->
-<div align="center">
-  <img src="https://img.shields.io/github/followers/arsh-911?logo=github&style=for-the-badge&color=EC4899&labelColor=1e293b" />
-  <img src="https://img.shields.io/github/stars/arsh-911?logo=github&style=for-the-badge&color=6366F1&labelColor=1e293b" />
-  <img src="https://komarev.com/ghpvc/?username=arsh-911&style=for-the-badge&color=06B6D4&labelColor=1e293b" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e293b" />
-</div>
-
-<br/>
-
-<!-- Interactive connect section -->
-<div align="center">
-  <a href="mailto:asa242@sfu.ca">
-    <img src="https://img.shields.io/badge/asa242@sfu.ca-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/arsh911">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/arsh-911">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://scriptivox.com">
-    <img src="https://img.shields.io/badge/Scriptivox-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img alt="what we're building" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=0e78d8&center=true&vCenter=true&width=900&lines=hi%2C+we're+arsh+%2B+abhishek.+we're+building+scriptivox.;today%3A+the+most+accurate+transcription+API+for+developers.;tomorrow%3A+scriptivox+speech.+stop+typing%2C+start+speaking.;%24X%2CXXX+MRR.+real+customers.+real+money.;welcome+to+the+post-keyboard+era." />
   </a>
 </div>
 
----
+<br/>
 
-## 🚀 What I'm Building
-
+<!-- ─── IDENTITY STRIP ───────────────────────────────────────────────── -->
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://scriptivox.com">
-          <img src="https://img.shields.io/badge/🎙️_Scriptivox-AI_Transcription_SaaS-FF6B6B?style=for-the-badge" />
-        </a>
-        <br><br>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-        <br><br>
-        <b>100+ Languages Supported</b><br>
-        <b>Speaker Diarization</b><br>
-        <b>Export to SRT, VTT, DOCX, JSON</b><br>
-        <b>Enterprise-Grade Security</b>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/💼_Current_Role-Full_Stack_Intern-4ECDC4?style=for-the-badge" />
-        <br><br>
-        <img src="https://img.shields.io/badge/We.inc-WebsiteInc.ai-181717?style=flat-square&logo=building&logoColor=white" />
-        <br><br>
-        <b>Building core Scriptivox features</b><br>
-        <b>WhisperX & RunPod integration</b><br>
-        <b>GPU-accelerated transcription</b><br>
-        <b>Full stack development</b>
-      </td>
-    </tr>
-  </table>
+  <a href="https://scriptivox.com"><img alt="scriptivox.com" src="https://img.shields.io/badge/%E2%96%B6_scriptivox.com-0e78d8?style=for-the-badge&labelColor=09090b&color=0e78d8&logoColor=fafafa"></a>
+  <a href="https://scriptivox.com/docs"><img alt="docs" src="https://img.shields.io/badge/api_docs-09090b?style=for-the-badge&logo=readthedocs&logoColor=0e78d8&labelColor=09090b"></a>
+  <a href="https://linkedin.com/in/arsh911"><img alt="arsh on linkedin" src="https://img.shields.io/badge/arsh-09090b?style=for-the-badge&logo=linkedin&logoColor=0e78d8&labelColor=09090b"></a>
+  <a href="#"><img alt="abhishek on linkedin" src="https://img.shields.io/badge/abhishek-09090b?style=for-the-badge&logo=linkedin&logoColor=8b5cf6&labelColor=09090b"></a>
+  <img alt="visitors" src="https://komarev.com/ghpvc/?username=arsh-911&style=for-the-badge&color=8b5cf6&label=VISITORS&labelColor=09090b">
 </div>
 
----
+<br/>
+<br/>
 
-## 💻 Tech Stack
+<!-- ─── FOUNDERS / SPEC CARD ─────────────────────────────────────────── -->
 
 <div align="center">
 
-### Languages & Frameworks
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,python,c,cpp,html,css&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,python,c,cpp,html,css&theme=light">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,html,css" />
-  </picture>
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>SCRIPTIVOX</h3>
+      <sub>founders &nbsp;·&nbsp; <a href="https://linkedin.com/in/arsh911"><b>arsh</b></a> &nbsp;+&nbsp; <a href="#"><b>abhishek</b></a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>category</b></td>
+    <td>voice infrastructure for the post-keyboard era</td>
+  </tr>
+  <tr>
+    <td align="right"><b>today</b></td>
+    <td>transcription API used in production</td>
+  </tr>
+  <tr>
+    <td align="right"><b>tomorrow</b></td>
+    <td>scriptivox speech &nbsp;·&nbsp; voice-first input &nbsp;·&nbsp; system-wide</td>
+  </tr>
+  <tr>
+    <td align="right"><b>traction</b></td>
+    <td>$X,XXX MRR &nbsp;·&nbsp; growing every month</td>
+  </tr>
+  <tr>
+    <td align="right"><b>customers</b></td>
+    <td>developers, teams, recording studios, podcasters</td>
+  </tr>
+  <tr>
+    <td align="right"><b>hq</b></td>
+    <td>coquitlam, BC 🇨🇦</td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════
+                              ▶ TODAY
+═════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">▶ &nbsp; today</h2>
+<h3 align="center"><em>the transcription platform that ships in production</em></h3>
+
+<p align="center">
+scriptivox turns audio into clean, accurate, multilingual text.<br/>
+records meetings, ships a developer API, exports your audio into nine different formats.<br/>
+used by paying customers every day, in 119 languages, with speaker diarization built in.
 </p>
 
-### Frontend & Backend
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,supabase,postgres&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,supabase,postgres&theme=light">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,supabase,postgres" />
-  </picture>
+<br/>
+
+<div align="center">
+
+| what you get | what it does |
+|:---|:---|
+| 🎙 &nbsp; **meeting recording** | calendar auto-join, async summaries, share links |
+| 🔌 &nbsp; **public API** | `$0.20` per hour, async, presigned uploads, webhooks |
+| 📦 &nbsp; **MCP server** | bring transcription straight into claude desktop |
+| 🌐 &nbsp; **119 languages** | auto-detected, speaker-diarized, word-level timestamps |
+| 📤 &nbsp; **9 export formats** | srt · vtt · pdf · docx · txt · ass · sbv · stl · csv |
+| 🛠 &nbsp; **42 free tools** | trim, convert, join, edit audio in your browser |
+| 💼 &nbsp; **dashboard** | stripe billing, teams, audit logs, row-level security |
+| 🌎 &nbsp; **27 converters** | mp3↔srt, mp4↔vtt, every combo you'd ever paste-and-pray |
+
+</div>
+
+<br/>
+
+<p align="center">
+  <a href="https://scriptivox.com"><img src="https://img.shields.io/badge/try_scriptivox-0e78d8?style=for-the-badge&labelColor=09090b&logoColor=fafafa" /></a>
+  &nbsp;
+  <a href="https://scriptivox.com/docs"><img src="https://img.shields.io/badge/read_the_docs-09090b?style=for-the-badge&color=0e78d8&labelColor=09090b" /></a>
 </p>
 
-### AI/ML & Tools
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tensorflow,docker,aws,git,linux&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=tensorflow,docker,aws,git,linux&theme=light">
-    <img src="https://skillicons.dev/icons?i=tensorflow,docker,aws,git,linux" />
-  </picture>
-  <br>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=fff" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=fff" />
-  <img src="https://img.shields.io/badge/WhisperX-412991?style=for-the-badge&logo=openai&logoColor=fff" />
+<br/>
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════
+                            ▶ TOMORROW
+═════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">▶ &nbsp; tomorrow</h2>
+<h3 align="center"><em>scriptivox speech &nbsp;·&nbsp; the keyboard you don't touch</em></h3>
+
+<p align="center">
+the keyboard is the slowest part of your computer.<br/>
+people speak three times faster than they type, and yet every product on your screen still asks you to type.<br/>
+we think that ends.
 </p>
 
-</div>
+<p align="center">
+<b>scriptivox speech</b> is system-wide voice-first input.<br/>
+you hold a key. you talk. you let go. clean text appears.<br/>
+anywhere you'd normally type. no transcripts to copy-paste. no separate app to open.<br/>
+just speak, get text, keep working.
+</p>
 
----
-
-## 📂 Featured Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/🧬_Biomedical_Image_Analyzer-FF6B6B?style=for-the-badge" />
-        <br><br>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-        <br><br>
-        <b>CNN-based cell detection</b><br>
-        <b>92% accuracy</b><br>
-        <b>40% faster inference</b>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/🛡️_Anomaly_Detection_System-4ECDC4?style=for-the-badge" />
-        <br><br>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-        <br><br>
-        <b>Hidden Markov Models</b><br>
-        <b>89% precision</b><br>
-        <b>35% fewer false positives</b>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/🗄️_Database_Management_System-FFE66D?style=for-the-badge" />
-        <br><br>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-        <br><br>
-        <b>3NF Normalization</b><br>
-        <b>B-tree indexing</b><br>
-        <b>50% faster queries</b>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 📊 GitHub Stats
+<br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=arsh-911&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=arsh-911&show_icons=true&theme=swift&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arsh-911&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=arsh-911&theme=radical&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=arsh-911&theme=swift&hide_border=true">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=arsh-911&theme=radical&hide_border=true" alt="Streak Stats" />
-  </picture>
+
+| where you'd be typing | what speech does instead |
+|:---:|:---:|
+| slack messages | speak in full sentences |
+| emails to your team | five times faster than typing |
+| notion docs | stay in flow, no context switch |
+| github issues | punctuation handled for you |
+| every comment thread | every app, every textbox |
+| every keyboard shortcut | one hotkey to rule them all |
+
 </div>
+
+<br/>
+
+<p align="center">
+<i>same whisper pipeline that powers scriptivox transcription today.</i><br/>
+<i>same 119 languages. same accuracy. now everywhere you'd ever type.</i>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://scriptivox.com"><img src="https://img.shields.io/badge/join_the_speech_waitlist-8b5cf6?style=for-the-badge&labelColor=09090b&logoColor=fafafa" /></a>
+</p>
+
+<br/>
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════
+                            ▶ THE API
+═════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">▶ &nbsp; the api</h2>
+<h3 align="center"><em>built for developers &nbsp;·&nbsp; async &nbsp;·&nbsp; webhook-native &nbsp;·&nbsp; MCP-compatible</em></h3>
+
+<p align="center">
+two endpoints. JSON in, JSON out. async by default, with webhooks the moment your transcript is ready.<br/>
+no SDK lock-in. <code>$0.20</code> per audio-hour, billed by the second.
+</p>
+
+<br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=arsh-911&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph&area=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=arsh-911&theme=github-light&hide_border=true&custom_title=Contribution%20Graph&area=true">
-    <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=arsh-911&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph&area=true" alt="Activity Graph" />
-  </picture>
+
+```bash
+curl https://api.scriptivox.com/v1/transcribe \
+  -H "Authorization: Bearer sk_live_..." \
+  -H "Content-Type: application/json" \
+  -d '{
+    "url": "https://your-bucket.s3/audio.mp3",
+    "webhook_url": "https://yours.app/scriptivox",
+    "language": "auto",
+    "diarize": true
+  }'
+```
+
 </div>
 
----
+<br/>
 
-## 🐍 Contribution Snake
+<div align="center">
+
+```json
+{
+  "id": "tx_K9d2nVbq",
+  "status": "completed",
+  "duration_seconds": 1847,
+  "language": "en",
+  "speakers": 3,
+  "transcript": "...",
+  "formats": { "srt": "...", "vtt": "...", "txt": "..." }
+}
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| what's in the box | |
+|:---|:---|
+| **async + sync** | submit url or upload, get a webhook on completion |
+| **language auto-detect** | 119 supported, or force one with a flag |
+| **speaker diarization** | who said what, with timestamps |
+| **word-level timestamps** | every word, to the millisecond |
+| **9 export formats** | srt, vtt, pdf, docx, txt, ass, sbv, stl, csv |
+| **MCP-compatible** | plugs into claude desktop natively |
+| **webhook security** | signed payloads, retries with backoff |
+
+</div>
+
+<br/>
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════
+                          ▶ HOW IT WORKS
+═════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">▶ &nbsp; how it works</h2>
+<h3 align="center"><em>the pipeline behind every transcript</em></h3>
+
+<br/>
+
+```mermaid
+flowchart LR
+    U([🎙 audio in]) --> CF[cloudflare workers<br/>auth + rate-limit]
+    CF --> EDGE[edge API<br/>atomic job claim]
+    EDGE --> CR[media pipeline<br/>validate + stage]
+    CR --> GPU[GPU inference<br/>whisperx + diarization]
+    GPU --> WH[webhook<br/>store + share token]
+    WH --> OUT([📤 clean text out])
+
+    classDef hot fill:#0e78d8,stroke:#09090b,color:#fafafa,font-weight:bold
+    classDef warm fill:#8b5cf6,stroke:#09090b,color:#fafafa,font-weight:bold
+    classDef cool fill:#18181b,stroke:#0e78d8,color:#fafafa
+    class CF hot
+    class GPU warm
+    class EDGE,CR,WH cool
+```
+
+<p align="center">
+async by default. survives retries. presigned uploads. atomic job claiming.<br/>
+the same backbone that will power scriptivox speech.
+</p>
+
+<br/>
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════
+                           ▶ BUILT WITH
+═════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">▶ &nbsp; built with</h2>
+
+<br/>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,deno,postgres,tailwind,cloudflare,docker,aws,git&perline=12" />
+</div>
+
+<br/>
+
+<div align="center">
+
+| layer | what we use |
+|:---:|:---|
+| **frontend** | next.js · typescript · tailwind · radix · shadcn · ffmpeg-wasm |
+| **edge** | cloudflare workers for routing, auth, rate-limit |
+| **api** | typescript, deno runtime, async-first |
+| **inference** | whisperx for transcription · diarization layer · GPU-backed |
+| **data** | postgres with row-level security |
+| **ops** | stripe · sentry · vercel |
+
+</div>
+
+<br/>
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════
+                       ▶ SHIPPING IN PUBLIC
+═════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">▶ &nbsp; shipping in public</h2>
+
+<br/>
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arsh-911&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=0e78d8&icon_color=0e78d8&text_color=fafafa&bg_color=09090b&card_width=445&rank_icon=github" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=arsh-911&hide_border=true&background=09090b&stroke=0e78d855&ring=0e78d8&fire=8b5cf6&currStreakLabel=0e78d8&currStreakNum=fafafa&sideLabels=fafafa&dates=fafafa&sideNums=8b5cf6" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=arsh-911&bg_color=09090b&color=fafafa&line=0e78d8&point=8b5cf6&area=true&hide_border=true&custom_title=commits%2C+last+year" />
+</div>
+
+<br/>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arsh-911/arsh-911/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arsh-911/arsh-911/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arsh-911/arsh-911/output/github-contribution-grid-snake-dark.svg">
+    <img alt="commits, eaten by a snake" src="https://raw.githubusercontent.com/arsh-911/arsh-911/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
 
----
+<br/>
+<br/>
 
-## 🏆 Achievements
+<!-- ════════════════════════════════════════════════════════════════════
+                              ▶ CTA
+═════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">the post-keyboard era starts at scriptivox.</h2>
+
+<p align="center">
+follow the build. try the product. join the waitlist for speech.<br/>
+we ship every week.
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://scriptivox.com"><img src="https://img.shields.io/badge/try_scriptivox-0e78d8?style=for-the-badge&labelColor=09090b&logoColor=fafafa" /></a>
+  &nbsp;
+  <a href="https://scriptivox.com"><img src="https://img.shields.io/badge/speech_waitlist-8b5cf6?style=for-the-badge&labelColor=09090b&logoColor=fafafa" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/arsh911"><img src="https://img.shields.io/badge/follow_arsh-09090b?style=for-the-badge&logo=linkedin&logoColor=0e78d8&labelColor=09090b" /></a>
+  &nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/follow_abhishek-09090b?style=for-the-badge&logo=linkedin&logoColor=8b5cf6&labelColor=09090b" /></a>
+</p>
+
+<br/>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=arsh-911&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=arsh-911&theme=flat&no-frame=true&column=4&margin-w=15&margin-h=15">
-    <img src="https://github-profile-trophy.vercel.app/?username=arsh-911&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:0e78d8,100:09090b&height=120&section=footer&animation=fadeIn">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:0e78d8,100:ffffff&height=120&section=footer&animation=fadeIn">
+    <img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:0e78d8,100:09090b&height=120&section=footer&animation=fadeIn">
   </picture>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🎓_Education-SFU_Computer_Science-gold?style=for-the-badge" />
-        <br><sub>Graduating April 2027 • Burnaby, BC</sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/💼_Experience-2_Internships-blue?style=for-the-badge" />
-        <br><sub>Full Stack @ We.inc • Front-End @ Website.inc</sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🛠️_Focus-Full_Stack_&_AI/ML-purple?style=for-the-badge" />
-        <br><sub>React • TypeScript • Python • ML</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🎯 Quick Facts
-
-```python
-class Arshnoor:
-    def __init__(self):
-        self.location = "Coquitlam, BC 🇨🇦"
-        self.education = "B.Sc. Computer Science @ Simon Fraser University"
-        self.graduation = "April 2027"
-        self.current_role = "Full Stack Developer Intern @ We.inc"
-        self.building = "Scriptivox - AI Transcription Platform"
-        
-    def tech_stack(self):
-        return {
-            "frontend": ["React", "TypeScript", "Next.js", "Tailwind", "shadcn/ui"],
-            "backend": ["Node.js", "Supabase", "PostgreSQL", "REST APIs"],
-            "ai_ml": ["Python", "TensorFlow", "Scikit-learn", "WhisperX"],
-            "tools": ["Git", "Docker", "AWS", "Linux", "CI/CD"]
-        }
-    
-    def interests(self):
-        return ["System Design", "Scalability", "AI/ML", "Open Source"]
-        
-    def contact(self):
-        return "asa242@sfu.ca"
-```
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-  <h3>I'm actively looking for:</h3>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/SWE_Internships-Summer_2026-brightgreen?style=for-the-badge" />
-        <br>Full-stack, Backend, or AI/ML roles
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Open_Source-Collaborations-blue?style=for-the-badge" />
-        <br>AI tools, developer productivity, SaaS
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
-  <a href="mailto:asa242@sfu.ca">
-    <img src="https://img.shields.io/badge/Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/arsh911">
-    <img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://scriptivox.com">
-    <img src="https://img.shields.io/badge/Check_Scriptivox-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=twinkling">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,30,5,2&height=100&section=footer&animation=twinkling">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=twinkling" />
-  </picture>
-  
-  <p>
-    <i>⭐ Star my repos if you find them useful!</i><br/>
-    <i>💡 Always open to interesting projects and collaborations</i>
-  </p>
-  
-  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-05122A?style=for-the-badge" />
-  
-  <br/><br/>
-  
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
 </div>
