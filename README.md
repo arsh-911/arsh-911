@@ -95,6 +95,8 @@ when i'm not shipping, i'm a cs student at simon fraser university, based in coq
 
 scriptivox turns audio into clean, accurate, multilingual text. records meetings, ships a developer API, and exports your audio into nine different formats. used by paying customers every day, in 119 languages, with speaker diarization built in.
 
+<div align="center">
+
 | | |
 |:---|:---|
 | 🎙 &nbsp; **meeting recording** | calendar auto-join, async summaries, share links |
@@ -105,6 +107,8 @@ scriptivox turns audio into clean, accurate, multilingual text. records meetings
 | 🛠 &nbsp; **42 free tools** | trim, convert, join, edit audio in your browser |
 | 💼 &nbsp; **dashboard** | stripe billing, teams, audit logs, row-level security |
 | 🌎 &nbsp; **27 converters** | mp3↔srt, mp4↔vtt, every combo you'd ever paste-and-pray |
+
+</div>
 
 <p align="center">
   <a href="https://scriptivox.com"><img src="https://img.shields.io/badge/try_scriptivox-0e78d8?style=for-the-badge&labelColor=09090b&logoColor=ffffff" /></a>
@@ -122,14 +126,18 @@ the keyboard is the slowest part of your computer. people speak three times fast
 
 **scriptivox speech** is system-wide voice-first input. you hold a key. you talk. you let go. clean text appears, anywhere you'd normally type. no transcripts to copy-paste. no separate app to open. just speak, get text, keep working.
 
+<div align="center">
+
 | where you'd be typing | what speech does instead |
-|:---|:---|
+|:---:|:---:|
 | slack messages | speak in full sentences |
 | emails to your team | five times faster than typing |
 | notion docs | stay in flow, no context switch |
 | github issues | punctuation handled for you |
 | every comment thread | every app, every textbox |
 | every keyboard shortcut | one hotkey to rule them all |
+
+</div>
 
 *same whisper pipeline that powers scriptivox transcription today. same 119 languages. same accuracy. now everywhere you'd ever type.*
 
@@ -169,6 +177,8 @@ curl https://api.scriptivox.com/v1/transcribe \
 }
 ```
 
+<div align="center">
+
 | | |
 |:---|:---|
 | **async + sync** | submit url or upload, get a webhook on completion |
@@ -178,6 +188,8 @@ curl https://api.scriptivox.com/v1/transcribe \
 | **9 export formats** | srt, vtt, pdf, docx, txt, ass, sbv, stl, csv |
 | **MCP-compatible** | plugs into claude desktop natively |
 | **webhook security** | signed payloads, retries with backoff |
+
+</div>
 
 <br/>
 
@@ -212,11 +224,15 @@ flowchart LR
 
 three things i built before scriptivox existed. each one taught me something i still use every day.
 
+<div align="center">
+
 | project | what it does | the win |
 |:---|:---|:---|
 | 🧬 &nbsp; **biomedical image analyzer** | CNN for cell detection on microscopy images | 92% accuracy · 40% faster inference vs baseline |
 | 🛡 &nbsp; **anomaly detection system** | hidden markov models for time-series anomalies | 89% precision · 35% fewer false positives |
 | 🗄 &nbsp; **mini DBMS** | a SQL engine with B-tree indexing, from scratch | 3NF normalization · 50% faster queries |
+
+</div>
 
 *these are scrappy and built for school. they're also where i learned that shipping > perfect.*
 
@@ -230,6 +246,8 @@ three things i built before scriptivox existed. each one taught me something i s
 
 <br/>
 
+<div align="center">
+
 | layer | what we use |
 |:---|:---|
 | **frontend** | next.js · typescript · tailwind · radix · shadcn · ffmpeg-wasm |
@@ -238,6 +256,8 @@ three things i built before scriptivox existed. each one taught me something i s
 | **inference** | whisperx for transcription · diarization layer · GPU-backed |
 | **data** | postgres with row-level security |
 | **ops** | stripe · sentry · vercel |
+
+</div>
 
 <br/>
 
